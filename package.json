@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "HendriansyahRizkySetiawan",
-  "homepage": "https://kyy-95631488.github.io/Portofolio-Dev/",
+  "homepage": "./",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
