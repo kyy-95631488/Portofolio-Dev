@@ -3,8 +3,7 @@ import "./Progress.css";
 import { techStack } from "../../portfolio";
 import { Fade } from "react-reveal";
 
-export default function StackProgress(props) {
-    const theme = props.theme;
+export default function StackProgress(_props) {
     if (techStack.viewSkillBars) {
         return (
             <Fade bottom duration={2000} distance="40px">

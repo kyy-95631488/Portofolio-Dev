@@ -1,21 +1,21 @@
-.footer-text {
+/* Footer Styles */
+.footer-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem 0;
+  background-color: #f9f9f9; /* Sesuaikan sesuai tema */
+}
+
+.footer-text,
+.theme-text {
   text-align: center;
-  /* color: #868e96; */
   font-weight: bold;
-  font-family: "Google Sans Regular";
+  font-family: "Google Sans Regular", sans-serif;
+  color: #868e96; /* Anda bisa mengubahnya dengan variabel dari props di komponen */
+  margin: 0.5rem 0;
 }
 
 .theme-text {
-  text-align: center;
   font-size: 0.8rem;
-  margin: 0;
-  /* color: #868e96; */
-}
-
-.theme-text p{
-  margin: 0;
-  /* color: #868e96; */
-}
-
-.footer-div {
 }

@@ -4,7 +4,6 @@ import Home from "../pages/home/HomeComponent";
 import Skill from "../pages/skill/skillTree";
 import Education from "../pages/education/EducationComponent";
 import Experience from "../pages/experience/Experience";
-import Opensource from "../pages/opensource/Opensource";
 import Contact from "../pages/contact/ContactComponent";
 import Projects from "../pages/projects/Projects";
 
@@ -17,9 +16,18 @@ export default class Main extends Component {
       <div>
         <HashRouter basename="/">
           <Routes>
-            <Route path="/" element={<Home theme={this.props.theme} />} />
-            <Route path="/home" element={<Home theme={this.props.theme} />} />
-            <Route path="/skill" element={<Skill theme={this.props.theme} />} />
+            <Route
+              path="/"
+              element={<Home theme={this.props.theme} />}
+            />
+            <Route
+              path="/home"
+              element={<Home theme={this.props.theme} />}
+            />
+            <Route
+              path="/skill"
+              element={<Skill theme={this.props.theme} />}
+            />
             <Route
               path="/experience"
               element={<Experience theme={this.props.theme} />}
@@ -27,10 +35,6 @@ export default class Main extends Component {
             <Route
               path="/education"
               element={<Education theme={this.props.theme} />}
-            />
-            <Route
-              path="/opensource"
-              element={<Opensource theme={this.props.theme} />}
             />
             <Route
               path="/contact"

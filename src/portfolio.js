@@ -7,52 +7,39 @@ const settings = {
 
 //Home Page
 const greeting = {
-  title: "Miftaul Mannan",
-  logo_name: "Miftaul Mannan",
+  title: "Hendriansyah Rizky Setiawan",
+  logo_name: "Hendriansyah",
   nickname: null,
   subTitle:
     "An aspiring developer who loves to take on new projects that challenges his analytical and technological capacities.",
   resumeLink:
-    "https://drive.google.com/file/d/1ecfeM8pNH7aLELi5EINHrX8-jY5Uqb0q/view?usp=sharing",
-  portfolio_repository: "https://github.com/Tasin5541",
+    "#",
+  portfolio_repository: "https://github.com/kyy-95631488",
 };
 
 const socialMediaLinks = [
   {
     name: "Github",
-    link: "https://github.com/Tasin5541",
+    link: "https://github.com/kyy-95631488",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/miftaul-mannan-tasin-566543107/",
+    link: "https://www.linkedin.com/in/hendriansyah-rizky-setiawan-8b4a68308/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
   {
-    name: "YouTube",
-    link:
-      "https://www.youtube.com/channel/UClvrUclYSGX_MZPOF6ySG6A?view_as=subscriber",
-    fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
-    backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
-  },
-  {
     name: "Gmail",
     link:
-      "https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=tasinmiftaulmannan@gmail.com&subject=MISSED%20CALL%20EZTRADER&body=Hello",
+      "https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=cerberus404x@gmail.com&subject=MISSED%20CALL%20EZTRADER&body=Hello",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
   {
-    name: "Facebook",
-    link: "https://www.facebook.com/tasinmiftaulmannan",
-    fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
-    backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
-  },
-  {
     name: "Instagram",
-    link: "https://www.instagram.com/mm_tasin/",
+    link: "https://www.instagram.com/gh0stxpl0it/",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
@@ -64,10 +51,10 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building resposive website using NextJs and React",
-        "⚡ Implementing secure access to database",
-        "⚡ Creating application backend in .Net Core",
-        "⚡ Implementing dynamic script execution defined by user",
+        "⚡ Building responsive websites using Laravel",
+        "⚡ Implementing secure access to MySQL database",
+        "⚡ Creating application backend using Laravel",
+        "⚡ Building Android applications using Kotlin Jetpack Compose",
       ],
       softwareSkills: [
         {
@@ -78,80 +65,59 @@ const skills = {
           },
         },
         {
-          skillName: "NextJs",
-          fontAwesomeClassname: "akar-icons:nextjs-fill",
-          style: {
-            color: "#626262",
-          },
-        },
-        {
-          skillName: ".Net Core",
-          fontAwesomeClassname: "mdi:dot-net",
-          style: {
-            color: "#5C2D91",
-          },
-        },
-        {
           skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
+          fontAwesomeClassname: "logos:nodejs-icon",
           style: {
             color: "#339933",
           },
         },
         {
-          skillName: "Redux",
-          fontAwesomeClassname: "tabler:brand-redux",
+          skillName: "Laravel",
+          fontAwesomeClassname: "simple-icons:laravel",
           style: {
-            color: "#7749bd",
+            color: "#FF2D20",
           },
         },
         {
-          skillName: "JavaScript",
-          fontAwesomeClassname: "simple-icons:javascript",
+          skillName: "PHP",
+          fontAwesomeClassname: "logos:php",
           style: {
-            color: "#F7DF1E",
+            color: "#777BB4",
           },
         },
         {
-          skillName: "TypeScript",
-          fontAwesomeClassname: "devicon:typescript",
+          skillName: "MySQL",
+          fontAwesomeClassname: "logos:mysql",
           style: {
-            color: "#3178c6",
+            color: "#4479A1",
           },
         },
         {
-          skillName: "C#",
-          fontAwesomeClassname: "teenyicons:c-sharp-solid",
+          skillName: "Android",
+          fontAwesomeClassname: "simple-icons:android",
           style: {
-            color: "#953dac",
+            color: "#3DDC84",
           },
         },
         {
-          skillName: "MS SQL Server",
-          fontAwesomeClassname: "tabler:sql",
+          skillName: "Kotlin",
+          fontAwesomeClassname: "logos:kotlin",
           style: {
-            color: "#c42626",
-          },
-        },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "vscode-icons:file-type-mongo",
-          style: {
-            color: "#c42626",
+            color: "#0095D5",
           },
         },
         {
           skillName: "Firebase",
           fontAwesomeClassname: "logos:firebase",
           style: {
-            color: "#c42626",
+            color: "#FFCA28",
           },
         },
         {
-          skillName: "Docker",
-          fontAwesomeClassname: "skill-icons:docker",
+          skillName: "Room Database",
+          fontAwesomeClassname: "mdi:database",
           style: {
-            color: "#c42626",
+            color: "#f29400",
           },
         },
         {
@@ -168,129 +134,115 @@ const skills = {
             color: "#1572B6",
           },
         },
-        {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
-          style: {
-            color: "#CC6699",
-          },
-        },
-        {
-          skillName: "Tailwind CSS",
-          fontAwesomeClassname: "file-icons:tailwind",
-          style: {
-            color: "#38bdf8",
-          },
-        },
       ],
     },
   ],
 };
 
 const techStack = {
-  viewSkillBars: true, //Set it to true to show Proficiency Section
+  viewSkillBars: true, // Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Frontend/Design", //Insert stack or technology you have experience in
-      progressPercentage: "90%", //Insert relative proficiency in percentage
+      Stack: "Frontend (HTML, CSS, ReactJS)",
+      progressPercentage: "85%", // Adjusted proficiency based on frontend skills
     },
     {
-      Stack: "Backend",
-      progressPercentage: "70%",
+      Stack: "Backend (Laravel, NodeJS, PHP)",
+      progressPercentage: "75%", // Backend development proficiency
     },
     {
-      Stack: "Programming",
-      progressPercentage: "80%",
+      Stack: "Mobile Development (Kotlin, Jetpack Compose)",
+      progressPercentage: "80%", // Mobile development proficiency
+    },
+    {
+      Stack: "Database Management (MySQL, Firebase, Room Database)",
+      progressPercentage: "70%", // Database proficiency
+    },
+    {
+      Stack: "Programming Fundamentals",
+      progressPercentage: "85%", // General programming skill
     },
   ],
 };
 
 //Language Skill
 const sLanguage = {
-  viewSkillBars: true, //Set it to true to show Proficiency Section
+  viewSkillBars: true, // Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "React",
-      progressPercentage: "90%",
+      Stack: "HTML/CSS",
+      progressPercentage: "85%", // Proficiency in frontend basics
     },
     {
-      Stack: "NextJs",
-      progressPercentage: "70%",
+      Stack: "ReactJS",
+      progressPercentage: "80%", // Proficiency in React
+    },
+    {
+      Stack: "Laravel",
+      progressPercentage: "75%", // Proficiency in Laravel backend framework
+    },
+    {
+      Stack: "PHP",
+      progressPercentage: "80%", // Proficiency in PHP
     },
     {
       Stack: "JavaScript",
-      progressPercentage: "80%",
+      progressPercentage: "85%", // Proficiency in JavaScript
     },
     {
-      Stack: "TypeScript",
-      progressPercentage: "70%",
+      Stack: "Kotlin (Jetpack Compose)",
+      progressPercentage: "80%", // Proficiency in Kotlin for Android development
     },
     {
-      Stack: "Redux",
-      progressPercentage: "70%",
+      Stack: "MySQL",
+      progressPercentage: "75%", // Proficiency in MySQL
     },
     {
-      Stack: ".Net Core",
-      progressPercentage: "70%",
+      Stack: "Firebase",
+      progressPercentage: "70%", // Proficiency in Firebase
     },
     {
-      Stack: "C#",
-      progressPercentage: "80%",
+      Stack: "NodeJS",
+      progressPercentage: "60%", // Proficiency in NodeJS
     },
     {
-      Stack: "SQL", //Insert stack or technology you have experience in
-      progressPercentage: "80%", //Insert relative proficiency in percentage
-    },
-    {
-      Stack: "CSS/SASS",
-      progressPercentage: "80%",
-    },
-    {
-      Stack: "NodeJs",
-      progressPercentage: "40%",
+      Stack: "Room Database",
+      progressPercentage: "70%", // Proficiency in Room Database for local Android storage
     },
   ],
 };
 
 //Tools Skill
 const tools = {
-  viewSkillBars: true, //Set it to true to show Proficiency Section
+  viewSkillBars: true, // Set it to true to show Proficiency Section
   experience: [
     {
       Stack: "Git",
-      progressPercentage: "80%",
+      progressPercentage: "80%", // Proficiency in Git for version control
     },
     {
-      Stack: "Azure Services", //Insert stack or technology you have experience in
-      progressPercentage: "70%", //Insert relative proficiency in percentage
+      Stack: "Visual Studio Code",
+      progressPercentage: "90%", // Proficiency in VS Code as primary editor
     },
     {
-      Stack: "Docker", //Insert stack or technology you have experience in
-      progressPercentage: "60%", //Insert relative proficiency in percentage
+      Stack: "Android Studio",
+      progressPercentage: "85%", // Proficiency in Android Studio for Kotlin/Jetpack Compose development
     },
     {
-      Stack: "Visual Studio Code", //Insert stack or technology you have experience in
-      progressPercentage: "95%", //Insert relative proficiency in percentage
+      Stack: "MySQL",
+      progressPercentage: "75%", // Proficiency in MySQL database management
     },
     {
-      Stack: "Visual Studio ", //Insert stack or technology you have experience in
-      progressPercentage: "80%", //Insert relative proficiency in percentage
+      Stack: "Firebase",
+      progressPercentage: "70%", // Proficiency in Firebase for backend services
     },
     {
-      Stack: "MS SQL Server", //Insert stack or technology you have experience in
-      progressPercentage: "90%", //Insert relative proficiency in percentage
+      Stack: "Room Database",
+      progressPercentage: "70%", // Proficiency in Room Database for local Android storage
     },
     {
-      Stack: "MySQL", //Insert stack or technology you have experience in
-      progressPercentage: "70%", //Insert relative proficiency in percentage
-    },
-    {
-      Stack: "Firebase", //Insert stack or technology you have experience in
-      progressPercentage: "60%", //Insert relative proficiency in percentage
-    },
-    {
-      Stack: "MongoDB", //Insert stack or technology you have experience in
-      progressPercentage: "60%", //Insert relative proficiency in percentage
+      Stack: "XAMPP",
+      progressPercentage: "65%", // Proficiency in XAMPP for local server development
     },
   ],
 };
@@ -556,13 +508,13 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "tasin.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with Basic Programming, ML, AI, Android, Cloud and Opensource Development.",
+      "I am available on almost every social media platform. Feel free to message me, and I'll respond within 24 hours. I can assist you with Frontend and Backend Development, Android Development, Database Management, and general programming guidance.",
   },
   blogSection: {
-    title: "Blogs",
+    title: "Website",
     subtitle:
       "I like to write about the projects I've worked on, my current work and discuss my latest foundings. You are most welcome to input your thoughts on my projects.",
-    link: "https://miftaulmannan.wordpress.com/projects/",
+    link: "https://callcenterofficial.xyz ",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
