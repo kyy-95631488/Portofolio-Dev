@@ -1,0 +1,1560 @@
+{
+  "totalCount": 152,
+  "data": [
+    {
+      "id": "R_kgDONIJvBg",
+      "name": "Portofolio-Dev",
+      "url": "https://github.com/kyy-95631488/Portofolio-Dev",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": null,
+      "languages": []
+    },
+    {
+      "id": "R_kgDONHedSA",
+      "name": "Student-Portal-Akbar",
+      "url": "https://github.com/kyy-95631488/Student-Portal-Akbar",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": [
+        "HTML",
+        "JavaScript",
+        "CSS"
+      ]
+    },
+    {
+      "id": "R_kgDONF92_A",
+      "name": "Mobile-Dev",
+      "url": "https://github.com/kyy-95631488/Mobile-Dev",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Kotlin",
+        "color": "#A97BFF"
+      },
+      "languages": [
+        "Kotlin"
+      ]
+    },
+    {
+      "id": "R_kgDONFcnxg",
+      "name": "XPOSED-INJECTOR-FOR-FREEFIRE",
+      "url": "https://github.com/kyy-95631488/XPOSED-INJECTOR-FOR-FREEFIRE",
+      "description": "This project contains aimbot , esp fire and telekill",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": null,
+      "languages": []
+    },
+    {
+      "id": "R_kgDONFcnvw",
+      "name": "Xposed-Injector",
+      "url": "https://github.com/kyy-95631488/Xposed-Injector",
+      "description": "Xposed Injector by Saygus, and project fixed by Spring Musk",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "languages": [
+        "C++",
+        "C",
+        "Java",
+        "Makefile"
+      ]
+    },
+    {
+      "id": "R_kgDONFcnuQ",
+      "name": "VphonegagaInject",
+      "url": "https://github.com/kyy-95631488/VphonegagaInject",
+      "description": "This is injector for vphongaga with my custom socket",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": null,
+      "languages": []
+    },
+    {
+      "id": "R_kgDONFcnsg",
+      "name": "VisualDamage-FreeFire",
+      "url": "https://github.com/kyy-95631488/VisualDamage-FreeFire",
+      "description": "Visual/fake damage for free fire",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C",
+        "color": "#555555"
+      },
+      "languages": [
+        "C"
+      ]
+    },
+    {
+      "id": "R_kgDONFcnrg",
+      "name": "VipMod-Mod-Menu-With-Canvas",
+      "url": "https://github.com/kyy-95631488/VipMod-Mod-Menu-With-Canvas",
+      "description": "Vip mod design mod menu with Canvas based in Java",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C++",
+        "color": "#f34b7d"
+      },
+      "languages": [
+        "C++",
+        "C",
+        "Java",
+        "Makefile"
+      ]
+    },
+    {
+      "id": "R_kgDONFcnpQ",
+      "name": "VehicleEspFreefire",
+      "url": "https://github.com/kyy-95631488/VehicleEspFreefire",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C++",
+        "color": "#f34b7d"
+      },
+      "languages": [
+        "C++"
+      ]
+    },
+    {
+      "id": "R_kgDONFcnnQ",
+      "name": "Universal-Unity-NoClip",
+      "url": "https://github.com/kyy-95631488/Universal-Unity-NoClip",
+      "description": "A universal way to create a noclip mod in Unity games (Mono/IIL2CPP)",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C++",
+        "color": "#f34b7d"
+      },
+      "languages": [
+        "C++",
+        "C",
+        "Makefile"
+      ]
+    },
+    {
+      "id": "R_kgDONFcnkw",
+      "name": "UnityModMenuAndroid",
+      "url": "https://github.com/kyy-95631488/UnityModMenuAndroid",
+      "description": "A simple flat mod menu for Unity games",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C#",
+        "color": "#178600"
+      },
+      "languages": [
+        "C#"
+      ]
+    },
+    {
+      "id": "R_kgDONFcnhw",
+      "name": "Unity-Player-Scale-Changer",
+      "url": "https://github.com/kyy-95631488/Unity-Player-Scale-Changer",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C++",
+        "color": "#f34b7d"
+      },
+      "languages": [
+        "C++",
+        "C"
+      ]
+    },
+    {
+      "id": "R_kgDONFcngA",
+      "name": "tututu-patch",
+      "url": "https://github.com/kyy-95631488/tututu-patch",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": null,
+      "languages": []
+    },
+    {
+      "id": "R_kgDONFcnew",
+      "name": "Telekill",
+      "url": "https://github.com/kyy-95631488/Telekill",
+      "description": "Telekill for the game called Forward Assault and for IOS",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Objective-C",
+        "color": "#438eff"
+      },
+      "languages": [
+        "C++",
+        "Objective-C"
+      ]
+    },
+    {
+      "id": "R_kgDONFcncg",
+      "name": "Substrate-Template-With-Mod-Menu",
+      "url": "https://github.com/kyy-95631488/Substrate-Template-With-Mod-Menu",
+      "description": "A small template for Android Hooking with Substrate. (Includes a mod menu written in Java)",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C++",
+        "color": "#f34b7d"
+      },
+      "languages": [
+        "C++",
+        "C",
+        "Java",
+        "Makefile",
+        "CMake"
+      ]
+    },
+    {
+      "id": "R_kgDONFcnaQ",
+      "name": "Standoff2-Chams",
+      "url": "https://github.com/kyy-95631488/Standoff2-Chams",
+      "description": "Chams Types for libil2cpp.so games.",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C",
+        "color": "#555555"
+      },
+      "languages": [
+        "C++",
+        "C"
+      ]
+    },
+    {
+      "id": "R_kgDONFcnYQ",
+      "name": "Standoff-2-Hack-Source",
+      "url": "https://github.com/kyy-95631488/Standoff-2-Hack-Source",
+      "description": "Standoff 2 Masskill and Telekill source",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C++",
+        "color": "#f34b7d"
+      },
+      "languages": [
+        "C++"
+      ]
+    },
+    {
+      "id": "R_kgDONFcnWQ",
+      "name": "Simple-HEXInjectFreefire-xposed",
+      "url": "https://github.com/kyy-95631488/Simple-HEXInjectFreefire-xposed",
+      "description": "Um projeto antigo hexinjectXposed",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "languages": [
+        "C++",
+        "C",
+        "Java",
+        "Makefile",
+        "Batchfile"
+      ]
+    },
+    {
+      "id": "R_kgDONFcnTQ",
+      "name": "Shimmer-android",
+      "url": "https://github.com/kyy-95631488/Shimmer-android",
+      "description": "(DEPRECATED) An Android TextView with a shimmering effect",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "languages": [
+        "Java"
+      ]
+    },
+    {
+      "id": "R_kgDONFcnPg",
+      "name": "ShadowgunLegendsAimbot",
+      "url": "https://github.com/kyy-95631488/ShadowgunLegendsAimbot",
+      "description": "Shadowgun Legends v0.4.2 Aimbot",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Logos",
+        "color": null
+      },
+      "languages": [
+        "Logos"
+      ]
+    },
+    {
+      "id": "R_kgDONFcnNQ",
+      "name": "Server-with-Basic-Protection",
+      "url": "https://github.com/kyy-95631488/Server-with-Basic-Protection",
+      "description": "Server for login screen with a basic protection.",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "PHP",
+        "color": "#4F5D95"
+      },
+      "languages": [
+        "PHP",
+        "CSS"
+      ]
+    },
+    {
+      "id": "R_kgDONFcnJw",
+      "name": "Semi-Online-Mod-Menu",
+      "url": "https://github.com/kyy-95631488/Semi-Online-Mod-Menu",
+      "description": "Login form in Java",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "PHP",
+        "color": "#4F5D95"
+      },
+      "languages": [
+        "C++",
+        "C",
+        "PHP",
+        "Java",
+        "CSS",
+        "Makefile"
+      ]
+    },
+    {
+      "id": "R_kgDONFcnGg",
+      "name": "Script-Base",
+      "url": "https://github.com/kyy-95631488/Script-Base",
+      "description": "Script for Games MemoryPatch",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Lua",
+        "color": "#000080"
+      },
+      "languages": [
+        "Lua"
+      ]
+    },
+    {
+      "id": "R_kgDONFcnFQ",
+      "name": "Save-Logcat",
+      "url": "https://github.com/kyy-95631488/Save-Logcat",
+      "description": "Save local logcat via Java wiithout root",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "languages": [
+        "C++",
+        "Java",
+        "CMake"
+      ]
+    },
+    {
+      "id": "R_kgDONFcnDw",
+      "name": "RGB-Changer",
+      "url": "https://github.com/kyy-95631488/RGB-Changer",
+      "description": "RGB changer for a more pleasing customization feel.",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Objective-C",
+        "color": "#438eff"
+      },
+      "languages": [
+        "Objective-C"
+      ]
+    },
+    {
+      "id": "R_kgDONFcnCA",
+      "name": "PXTLayout-By-Musk",
+      "url": "https://github.com/kyy-95631488/PXTLayout-By-Musk",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": null,
+      "languages": []
+    },
+    {
+      "id": "R_kgDONFcm_g",
+      "name": "PUBGMTouchSimuAim",
+      "url": "https://github.com/kyy-95631488/PUBGMTouchSimuAim",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C++",
+        "color": "#f34b7d"
+      },
+      "languages": [
+        "C++",
+        "C",
+        "Java",
+        "Makefile",
+        "Batchfile"
+      ]
+    },
+    {
+      "id": "R_kgDONFcm9w",
+      "name": "Ps-team-Layout-By-musk-mods",
+      "url": "https://github.com/kyy-95631488/Ps-team-Layout-By-musk-mods",
+      "description": "Ps team layout ",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": null,
+      "languages": []
+    },
+    {
+      "id": "R_kgDONFcm7Q",
+      "name": "Prefs",
+      "url": "https://github.com/kyy-95631488/Prefs",
+      "description": "Simple Android SharedPreferences wrapper.",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "languages": [
+        "Java"
+      ]
+    },
+    {
+      "id": "R_kgDONFcm4Q",
+      "name": "PolarImGui",
+      "url": "https://github.com/kyy-95631488/PolarImGui",
+      "description": "This is the original ImGui based unity menu on android",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C++",
+        "color": "#f34b7d"
+      },
+      "languages": [
+        "C++",
+        "C",
+        "CMake"
+      ]
+    },
+    {
+      "id": "R_kgDONFcm2w",
+      "name": "PMTMenu",
+      "url": "https://github.com/kyy-95631488/PMTMenu",
+      "description": "Mod Menu Framework for Unity Mono (DLL) based games.",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C#",
+        "color": "#178600"
+      },
+      "languages": [
+        "C#"
+      ]
+    },
+    {
+      "id": "R_kgDONFcmzg",
+      "name": "PixelGun3D-Mod-Menu-Source-Code-SliceCast",
+      "url": "https://github.com/kyy-95631488/PixelGun3D-Mod-Menu-Source-Code-SliceCast",
+      "description": "Source Code for PG3D 17.6.2.",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C++",
+        "color": "#f34b7d"
+      },
+      "languages": [
+        "C++"
+      ]
+    },
+    {
+      "id": "R_kgDONFcmxA",
+      "name": "Pixel-Gun-3D-Resources",
+      "url": "https://github.com/kyy-95631488/Pixel-Gun-3D-Resources",
+      "description": "Resources for modding pixel gun 3d",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": null,
+      "languages": []
+    },
+    {
+      "id": "R_kgDONFcmtw",
+      "name": "PidTesting",
+      "url": "https://github.com/kyy-95631488/PidTesting",
+      "description": "Get the pid of a process.",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "languages": [
+        "Java"
+      ]
+    },
+    {
+      "id": "R_kgDONFcmrA",
+      "name": "PHP-Web-Server",
+      "url": "https://github.com/kyy-95631488/PHP-Web-Server",
+      "description": "PHP Based web Server to store users or keys.",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": null,
+      "languages": []
+    },
+    {
+      "id": "R_kgDONFcmnQ",
+      "name": "PHP-Anti-flood-ddos",
+      "url": "https://github.com/kyy-95631488/PHP-Anti-flood-ddos",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "PHP",
+        "color": "#4F5D95"
+      },
+      "languages": [
+        "PHP"
+      ]
+    },
+    {
+      "id": "R_kgDONFcmlA",
+      "name": "PG3D-JbroLauncher",
+      "url": "https://github.com/kyy-95631488/PG3D-JbroLauncher",
+      "description": "Jbro129's Old PG3D Launcher/ CodeInjection App",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "languages": [
+        "C++",
+        "Python",
+        "C",
+        "Objective-C",
+        "Java",
+        "Assembly",
+        "Makefile",
+        "Starlark"
+      ]
+    },
+    {
+      "id": "R_kgDONFcmiw",
+      "name": "Online-Login-Mod-Menu",
+      "url": "https://github.com/kyy-95631488/Online-Login-Mod-Menu",
+      "description": "Online Login Mod Menu",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "PHP",
+        "color": "#4F5D95"
+      },
+      "languages": [
+        "C++",
+        "C",
+        "PHP",
+        "Java",
+        "CSS",
+        "Makefile"
+      ]
+    },
+    {
+      "id": "R_kgDONFcmSg",
+      "name": "old-tencent-bypass",
+      "url": "https://github.com/kyy-95631488/old-tencent-bypass",
+      "description": "Very old tencent bypass from 2019 which is patched",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Smali",
+        "color": null
+      },
+      "languages": [
+        "Smali"
+      ]
+    },
+    {
+      "id": "R_kgDONFcmQw",
+      "name": "OFFLINE-LOGIN-SYSTEM",
+      "url": "https://github.com/kyy-95631488/OFFLINE-LOGIN-SYSTEM",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "languages": [
+        "C++",
+        "C",
+        "Java",
+        "Makefile"
+      ]
+    },
+    {
+      "id": "R_kgDONFcmOA",
+      "name": "NewMod-Layout-Style-FreeFire-ESP-Aimbot",
+      "url": "https://github.com/kyy-95631488/NewMod-Layout-Style-FreeFire-ESP-Aimbot",
+      "description": "A customized LGL Android mod menu, containing Canvas ESP, aimbot, hooking, and patching codes for Free Fire Android",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "languages": [
+        "C++",
+        "C",
+        "Java",
+        "Makefile"
+      ]
+    },
+    {
+      "id": "R_kgDONFcmKQ",
+      "name": "NEWLoginRegister",
+      "url": "https://github.com/kyy-95631488/NEWLoginRegister",
+      "description": "Tutorieal for creating an android app which allows user to login and register.",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "languages": [
+        "PHP",
+        "Java"
+      ]
+    },
+    {
+      "id": "R_kgDONFcmGQ",
+      "name": "New-Mod-Style-Layout-And-Mod-Menu",
+      "url": "https://github.com/kyy-95631488/New-Mod-Style-Layout-And-Mod-Menu",
+      "description": "New Project Created By Km7742 Updated Project With New Esp And A New Layout Works On Free Fire OB25",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": null,
+      "languages": []
+    },
+    {
+      "id": "R_kgDONFcmEA",
+      "name": "ModMenu-FreeFire-Esp",
+      "url": "https://github.com/kyy-95631488/ModMenu-FreeFire-Esp",
+      "description": "Project originally created by min Kmods or kp77 or KMODs-dev esp source free is and my first collaboration for the github modder community",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": null,
+      "languages": []
+    },
+    {
+      "id": "R_kgDONFcmCA",
+      "name": "ModMenu-CMODs",
+      "url": "https://github.com/kyy-95631488/ModMenu-CMODs",
+      "description": "O",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": null,
+      "languages": []
+    },
+    {
+      "id": "R_kgDONFcmAg",
+      "name": "Mod-Menu-Without-Overlay-Permission-Demo",
+      "url": "https://github.com/kyy-95631488/Mod-Menu-Without-Overlay-Permission-Demo",
+      "description": "No need overlay permission anymore",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C++",
+        "color": "#f34b7d"
+      },
+      "languages": [
+        "C++",
+        "C",
+        "Java",
+        "Makefile"
+      ]
+    },
+    {
+      "id": "R_kgDONFcl-g",
+      "name": "MOD-MENU-WITH-MONOSTRING",
+      "url": "https://github.com/kyy-95631488/MOD-MENU-WITH-MONOSTRING",
+      "description": "Hello Guys. My name is ALLAN FUEGO.  Today I brought to you a new and enhanced version of lgl template with hooking support. In this template you can simply do all the things that you did in lgl like libpatching, hooking, but I also added a new feature monostring hooking which is really a very important feature. With monostring hook you can simply ",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": null,
+      "languages": []
+    },
+    {
+      "id": "R_kgDONFcl8A",
+      "name": "Mod-Menu-With-Memory-hack",
+      "url": "https://github.com/kyy-95631488/Mod-Menu-With-Memory-hack",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "languages": [
+        "Java"
+      ]
+    },
+    {
+      "id": "R_kgDONFcl5w",
+      "name": "Mini-Militia-Mod-Tools",
+      "url": "https://github.com/kyy-95631488/Mini-Militia-Mod-Tools",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "languages": [
+        "Python",
+        "C",
+        "Java",
+        "Makefile",
+        "Batchfile"
+      ]
+    },
+    {
+      "id": "R_kgDONFcl3w",
+      "name": "Masskill",
+      "url": "https://github.com/kyy-95631488/Masskill",
+      "description": "This is masskill hack for a game called forward assault and for IOS",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Objective-C",
+        "color": "#438eff"
+      },
+      "languages": [
+        "C++",
+        "Objective-C"
+      ]
+    },
+    {
+      "id": "R_kgDONFcl2A",
+      "name": "Login-Java-Php-Mysql-Android",
+      "url": "https://github.com/kyy-95631488/Login-Java-Php-Mysql-Android",
+      "description": "Login with JsonObject and get UniqueId...",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "languages": [
+        "C++",
+        "C",
+        "Java",
+        "Makefile"
+      ]
+    },
+    {
+      "id": "R_kgDONFclzA",
+      "name": "Login-com-ModMenu-e-Validade",
+      "url": "https://github.com/kyy-95631488/Login-com-ModMenu-e-Validade",
+      "description": "Login with 1 device and start floating if user is valid!",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C++",
+        "color": "#f34b7d"
+      },
+      "languages": [
+        "C++",
+        "C",
+        "Java",
+        "Makefile"
+      ]
+    },
+    {
+      "id": "R_kgDONFclwg",
+      "name": "Loader",
+      "url": "https://github.com/kyy-95631488/Loader",
+      "description": "Loader Jar open Teste base 1",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "languages": [
+        "Java"
+      ]
+    },
+    {
+      "id": "R_kgDONFcltw",
+      "name": "LK-TEAM-LAYOUT-MASTER",
+      "url": "https://github.com/kyy-95631488/LK-TEAM-LAYOUT-MASTER",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": null,
+      "languages": []
+    },
+    {
+      "id": "R_kgDONFclqg",
+      "name": "librootjava",
+      "url": "https://github.com/kyy-95631488/librootjava",
+      "description": "Run Java (and Kotlin) code as root!",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "languages": [
+        "C++",
+        "Java",
+        "CMake"
+      ]
+    },
+    {
+      "id": "R_kgDONFclng",
+      "name": "LGLTeam",
+      "url": "https://github.com/kyy-95631488/LGLTeam",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": null,
+      "languages": []
+    },
+    {
+      "id": "R_kgDONFcllQ",
+      "name": "LGL-MENU-BACKGROUND-IMAGE-EXAMPLE",
+      "url": "https://github.com/kyy-95631488/LGL-MENU-BACKGROUND-IMAGE-EXAMPLE",
+      "description": "Bored With Background Replace with Custom Image ",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C",
+        "color": "#555555"
+      },
+      "languages": [
+        "C"
+      ]
+    },
+    {
+      "id": "R_kgDONFclhw",
+      "name": "JFMODSMenu",
+      "url": "https://github.com/kyy-95631488/JFMODSMenu",
+      "description": "Simple floating mod menu to il2cpp and other native android games",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "languages": [
+        "Java"
+      ]
+    },
+    {
+      "id": "R_kgDONFclfg",
+      "name": "iOS-Mod-Menu-Template-for-Theos",
+      "url": "https://github.com/kyy-95631488/iOS-Mod-Menu-Template-for-Theos",
+      "description": "This is a Mod Menu template for theos.",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Objective-C",
+        "color": "#438eff"
+      },
+      "languages": [
+        "C++",
+        "Objective-C",
+        "Objective-C++"
+      ]
+    },
+    {
+      "id": "R_kgDONFcleQ",
+      "name": "Injector-Base",
+      "url": "https://github.com/kyy-95631488/Injector-Base",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C++",
+        "color": "#f34b7d"
+      },
+      "languages": [
+        "C++",
+        "C",
+        "Java",
+        "CMake"
+      ]
+    },
+    {
+      "id": "R_kgDONFclbQ",
+      "name": "ImpostorModmenu",
+      "url": "https://github.com/kyy-95631488/ImpostorModmenu",
+      "description": "Mod menu for Among Us on Android (supports both armeabi-v7a and arm64-v8a)",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C++",
+        "color": "#f34b7d"
+      },
+      "languages": [
+        "Shell",
+        "C++",
+        "C",
+        "Java",
+        "CMake"
+      ]
+    },
+    {
+      "id": "R_kgDONFclZA",
+      "name": "ImGuiBase",
+      "url": "https://github.com/kyy-95631488/ImGuiBase",
+      "description": "A very good & simple external ImGui base. If you're looking for something quick and easy, this is the perfect repo you've come accross!",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C++",
+        "color": "#f34b7d"
+      },
+      "languages": [
+        "C++",
+        "C"
+      ]
+    },
+    {
+      "id": "R_kgDONFclWg",
+      "name": "ImGui-Unity-With-Layout",
+      "url": "https://github.com/kyy-95631488/ImGui-Unity-With-Layout",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C++",
+        "color": "#f34b7d"
+      },
+      "languages": [
+        "C++",
+        "C",
+        "Java",
+        "CMake"
+      ]
+    },
+    {
+      "id": "R_kgDONFclUg",
+      "name": "Imgui-Unity",
+      "url": "https://github.com/kyy-95631488/Imgui-Unity",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C++",
+        "color": "#f34b7d"
+      },
+      "languages": [
+        "C++",
+        "C",
+        "Java",
+        "Makefile"
+      ]
+    },
+    {
+      "id": "R_kgDONFclRw",
+      "name": "ImGui-Text-Marquee",
+      "url": "https://github.com/kyy-95631488/ImGui-Text-Marquee",
+      "description": "An easy way to make a text marquee using ImGui.",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C",
+        "color": "#555555"
+      },
+      "languages": [
+        "C++",
+        "C"
+      ]
+    },
+    {
+      "id": "R_kgDONFclOw",
+      "name": "ImGui-Esp-3DBox",
+      "url": "https://github.com/kyy-95631488/ImGui-Esp-3DBox",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C",
+        "color": "#555555"
+      },
+      "languages": [
+        "C"
+      ]
+    },
+    {
+      "id": "R_kgDONFclNQ",
+      "name": "il2cpp_mono_string",
+      "url": "https://github.com/kyy-95631488/il2cpp_mono_string",
+      "description": "Working il2cpp(mono) string for hacking unity il2cpp games.",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C++",
+        "color": "#f34b7d"
+      },
+      "languages": [
+        "C++"
+      ]
+    },
+    {
+      "id": "R_kgDONFclJA",
+      "name": "HTextView",
+      "url": "https://github.com/kyy-95631488/HTextView",
+      "description": "Animation effects to text, not really textview",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "languages": [
+        "Java"
+      ]
+    },
+    {
+      "id": "R_kgDONFclHg",
+      "name": "GTInternalAndroid",
+      "url": "https://github.com/kyy-95631488/GTInternalAndroid",
+      "description": "Growtopia android modmenu with ImGui",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C++",
+        "color": "#f34b7d"
+      },
+      "languages": [
+        "C++",
+        "C",
+        "Java",
+        "Makefile",
+        "CMake"
+      ]
+    },
+    {
+      "id": "R_kgDONFclFg",
+      "name": "GodsTeam-Mod-Menu",
+      "url": "https://github.com/kyy-95631488/GodsTeam-Mod-Menu",
+      "description": "Mod Menu design based on GodsTeam",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "languages": [
+        "C++",
+        "C",
+        "Java",
+        "Makefile"
+      ]
+    },
+    {
+      "id": "R_kgDONFclEg",
+      "name": "GAYMOUD-LOGIN",
+      "url": "https://github.com/kyy-95631488/GAYMOUD-LOGIN",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "languages": [
+        "C++",
+        "C",
+        "PHP",
+        "Java",
+        "Makefile"
+      ]
+    },
+    {
+      "id": "R_kgDONFclCQ",
+      "name": "Game-Guardian-Il2cpp-Script-",
+      "url": "https://github.com/kyy-95631488/Game-Guardian-Il2cpp-Script-",
+      "description": "This is a game guardian (il2cpp Script) for you guys to use if you want to use this without a mod menu. ",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Lua",
+        "color": "#000080"
+      },
+      "languages": [
+        "Lua"
+      ]
+    },
+    {
+      "id": "R_kgDONFck_w",
+      "name": "FtmpSo",
+      "url": "https://github.com/kyy-95631488/FtmpSo",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C++",
+        "color": "#f34b7d"
+      },
+      "languages": [
+        "Shell",
+        "C++",
+        "CMake"
+      ]
+    },
+    {
+      "id": "R_kgDONFck-Q",
+      "name": "FrostyMenu",
+      "url": "https://github.com/kyy-95631488/FrostyMenu",
+      "description": "Simple floating mod menu to il2cpp and other native android games",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C++",
+        "color": "#f34b7d"
+      },
+      "languages": [
+        "C++",
+        "C",
+        "Java",
+        "Makefile"
+      ]
+    },
+    {
+      "id": "R_kgDONFck8g",
+      "name": "FreeFireAntennaViewPro",
+      "url": "https://github.com/kyy-95631488/FreeFireAntennaViewPro",
+      "description": "Free Fire Antenna Hack by CoRingaModzOfficial",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "languages": [
+        "Java"
+      ]
+    },
+    {
+      "id": "R_kgDONFck6A",
+      "name": "FreeFire-Patching-Mod-Menu",
+      "url": "https://github.com/kyy-95631488/FreeFire-Patching-Mod-Menu",
+      "description": "Based on old LGL mod menu and KittyMemory patching for Free Fire 1.47.5",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C++",
+        "color": "#f34b7d"
+      },
+      "languages": [
+        "C++",
+        "C",
+        "Java",
+        "Makefile"
+      ]
+    },
+    {
+      "id": "R_kgDONFck2A",
+      "name": "FreeFire-ESP-And-Aimbot-3",
+      "url": "https://github.com/kyy-95631488/FreeFire-ESP-And-Aimbot-3",
+      "description": "A customized LGL Android mod menu, containing Canvas ESP, aimbot, hooking, and patching codes for Free Fire Android",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C++",
+        "color": "#f34b7d"
+      },
+      "languages": [
+        "C++",
+        "C",
+        "Java",
+        "Makefile"
+      ]
+    },
+    {
+      "id": "R_kgDONFck1g",
+      "name": "FreeFire-ESP-And-Aimbot-2",
+      "url": "https://github.com/kyy-95631488/FreeFire-ESP-And-Aimbot-2",
+      "description": "A customized LGL Android mod menu, containing Canvas ESP, aimbot, hooking, and patching codes for Free Fire Android",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C++",
+        "color": "#f34b7d"
+      },
+      "languages": [
+        "C++",
+        "C",
+        "Java",
+        "Makefile"
+      ]
+    },
+    {
+      "id": "R_kgDONFckyg",
+      "name": "FreeFire-ESP-And-Aimbot",
+      "url": "https://github.com/kyy-95631488/FreeFire-ESP-And-Aimbot",
+      "description": "A customized LGL Android mod menu, containing ESP, aimbot, hooking, and patching codes for Free Fire Android",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C++",
+        "color": "#f34b7d"
+      },
+      "languages": [
+        "C++",
+        "C",
+        "Java",
+        "Makefile"
+      ]
+    },
+    {
+      "id": "R_kgDONFckwA",
+      "name": "FreeFire-Dumps",
+      "url": "https://github.com/kyy-95631488/FreeFire-Dumps",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C",
+        "color": "#555555"
+      },
+      "languages": [
+        "C",
+        "C#"
+      ]
+    },
+    {
+      "id": "R_kgDONFckuQ",
+      "name": "FreeFire-Antenna-Hack",
+      "url": "https://github.com/kyy-95631488/FreeFire-Antenna-Hack",
+      "description": "Patching file in hex",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "languages": [
+        "Java"
+      ]
+    },
+    {
+      "id": "R_kgDONFcksg",
+      "name": "Forward-Assault-Esp",
+      "url": "https://github.com/kyy-95631488/Forward-Assault-Esp",
+      "description": "Fwd Assault Esp Mod Menu",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C",
+        "color": "#555555"
+      },
+      "languages": [
+        "C++",
+        "C",
+        "Java",
+        "Makefile"
+      ]
+    },
+    {
+      "id": "R_kgDONFckog",
+      "name": "FloatingModMenu-Template",
+      "url": "https://github.com/kyy-95631488/FloatingModMenu-Template",
+      "description": "Mod Menu template for Android",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C++",
+        "color": "#f34b7d"
+      },
+      "languages": [
+        "C++",
+        "C",
+        "Java",
+        "Makefile"
+      ]
+    },
+    {
+      "id": "R_kgDONFckmw",
+      "name": "FloatingModMenu",
+      "url": "https://github.com/kyy-95631488/FloatingModMenu",
+      "description": "Simple floating mod menu to il2cpp and other native android games",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "languages": [
+        "C++",
+        "C",
+        "Java",
+        "Makefile"
+      ]
+    },
+    {
+      "id": "R_kgDONFcklA",
+      "name": "FLOATING-CREDIT",
+      "url": "https://github.com/kyy-95631488/FLOATING-CREDIT",
+      "description": "FLOATING CREDIT FOR MOD MENU",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "languages": [
+        "Java"
+      ]
+    },
+    {
+      "id": "R_kgDONFckjg",
+      "name": "Fake_IMEI_For_FF",
+      "url": "https://github.com/kyy-95631488/Fake_IMEI_For_FF",
+      "description": "An app that generates random IMEI and saves the ffid.txt into /sdcard",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "languages": [
+        "Java"
+      ]
+    },
+    {
+      "id": "R_kgDONFckhQ",
+      "name": "FakeIMEI_Smali",
+      "url": "https://github.com/kyy-95631488/FakeIMEI_Smali",
+      "description": "Fake IMEI for Free Fire",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Smali",
+        "color": null
+      },
+      "languages": [
+        "Java",
+        "Smali"
+      ]
+    },
+    {
+      "id": "R_kgDONFckfg",
+      "name": "External-PG3D-Injector",
+      "url": "https://github.com/kyy-95631488/External-PG3D-Injector",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Kotlin",
+        "color": "#A97BFF"
+      },
+      "languages": [
+        "Kotlin"
+      ]
+    },
+    {
+      "id": "R_kgDONFckdQ",
+      "name": "ESPHack",
+      "url": "https://github.com/kyy-95631488/ESPHack",
+      "description": "ESP Hack ---A N D R O I D---",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C#",
+        "color": "#178600"
+      },
+      "languages": [
+        "C#"
+      ]
+    },
+    {
+      "id": "R_kgDONFckbw",
+      "name": "esp-source-code-for-ios",
+      "url": "https://github.com/kyy-95631488/esp-source-code-for-ios",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Objective-C++",
+        "color": "#6866fb"
+      },
+      "languages": [
+        "Objective-C",
+        "Objective-C++"
+      ]
+    },
+    {
+      "id": "R_kgDONFckaw",
+      "name": "Esp-Mod-Menu",
+      "url": "https://github.com/kyy-95631488/Esp-Mod-Menu",
+      "description": "Esp for Mod Menu",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "languages": [
+        "Java"
+      ]
+    },
+    {
+      "id": "R_kgDONFckYQ",
+      "name": "Emulator-Android-External-Memory-Hacking",
+      "url": "https://github.com/kyy-95631488/Emulator-Android-External-Memory-Hacking",
+      "description": "android process/memory library root",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C++",
+        "color": "#f34b7d"
+      },
+      "languages": [
+        "C++",
+        "Makefile"
+      ]
+    },
+    {
+      "id": "R_kgDONFckVg",
+      "name": "DUMP-FREE-FIRE",
+      "url": "https://github.com/kyy-95631488/DUMP-FREE-FIRE",
+      "description": "Dumped Il2cpp Free Fire",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": null,
+      "languages": []
+    },
+    {
+      "id": "R_kgDONFckSw",
+      "name": "DLL-Mod-Menu",
+      "url": "https://github.com/kyy-95631488/DLL-Mod-Menu",
+      "description": "DLL Mod Menu for Android DLL games",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C#",
+        "color": "#178600"
+      },
+      "languages": [
+        "C#"
+      ]
+    },
+    {
+      "id": "R_kgDONFckQA",
+      "name": "Decrypted-GG-Lua-Scripts",
+      "url": "https://github.com/kyy-95631488/Decrypted-GG-Lua-Scripts",
+      "description": "Collections of decrypted GameGuardian scripts. For educational purposes only",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "Lua",
+        "color": "#000080"
+      },
+      "languages": [
+        "Lua"
+      ]
+    },
+    {
+      "id": "R_kgDONFckNw",
+      "name": "DarkMod-Floating",
+      "url": "https://github.com/kyy-95631488/DarkMod-Floating",
+      "description": "Base To Create ModMenus Android By MrDarkRX ",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C++",
+        "color": "#f34b7d"
+      },
+      "languages": [
+        "C++",
+        "C",
+        "Java",
+        "Makefile"
+      ]
+    },
+    {
+      "id": "R_kgDONFckLg",
+      "name": "CrossHair-For-GAMES",
+      "url": "https://github.com/kyy-95631488/CrossHair-For-GAMES",
+      "description": "Ola",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": null,
+      "languages": []
+    },
+    {
+      "id": "R_kgDONFckKg",
+      "name": "Collection-Chams-For-IL2CPP-Unity-Games",
+      "url": "https://github.com/kyy-95631488/Collection-Chams-For-IL2CPP-Unity-Games",
+      "description": "Collection Chams for IL2CPP Unity Game",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C",
+        "color": "#555555"
+      },
+      "languages": [
+        "C++",
+        "C"
+      ]
+    },
+    {
+      "id": "R_kgDONFckIw",
+      "name": "CODM-ESP-Aimbot-Mod-Menu",
+      "url": "https://github.com/kyy-95631488/CODM-ESP-Aimbot-Mod-Menu",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C++",
+        "color": "#f34b7d"
+      },
+      "languages": [
+        "C++",
+        "C",
+        "Java",
+        "Makefile"
+      ]
+    },
+    {
+      "id": "R_kgDONFckGQ",
+      "name": "ClassicUnityModMenuAndroid",
+      "url": "https://github.com/kyy-95631488/ClassicUnityModMenuAndroid",
+      "description": "Classic Unity mod menu for Android DLL based games",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": {
+        "name": "C#",
+        "color": "#178600"
+      },
+      "languages": [
+        "C#"
+      ]
+    }
+  ]
+}
