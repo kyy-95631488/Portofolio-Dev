@@ -8,8 +8,16 @@
       "description": null,
       "stars": 0,
       "forks": 0,
-      "primaryLanguage": null,
-      "languages": []
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "SCSS"
+      ]
     },
     {
       "id": "R_kgDONHedSA",

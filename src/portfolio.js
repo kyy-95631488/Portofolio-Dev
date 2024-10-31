@@ -264,21 +264,32 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Ahsanullah University of Science and Technology",
-      subtitle: "B.Sc. in Computer Science and Engineering",
-      logo_path: "aust_logo.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "March 2016 - January 2021",
-      cgpa: "3.855 / 4.00",
+      title: "Universitas Indraprasta PGRI",
+      subtitle: "B.Sc. in Information Technology",
+      logo_path: "unindra_logo.png",
+      alt_name: "Unindra",
+      duration: "2022 - 2025",
+      cgpa: "",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, OOP, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning and Full Stack Development.",
-        "⚡ Placed 4th in my class.",
-        "⚡ Dean's List.",
-        "⚡ I was selected for ITEE Training Program which comprised of 20 students in the CSE department.",
-        "⚡ Elected as the team leader in all the group projects.",
+        "⚡ Studied core subjects such as Java Programming, Basic HTML, Networking, Automata Theory, Computer Science, and Basic Web Development.",
+        "⚡ Gained hands-on experience in software development projects.",
+        "⚡ Collaborated with peers on group assignments and projects.",
       ],
-      website_link: "http://aust.edu/",
+      website_link: "http://unindra.ac.id/",
+    },
+    {
+      title: "Kampus Merdeka Bangkit Academy",
+      subtitle: "Mobile Development Cohort",
+      logo_path: "bangkit_logo.png",
+      alt_name: "Bangkit Academy",
+      duration: "August 2024 - January 2025",
+      cgpa: "",
+      descriptions: [
+        "⚡ Participated in the Bangkit Academy 2024 Batch 2, specializing in Mobile Development.",
+        "⚡ Enhanced skills in building mobile applications.",
+        "⚡ Worked on real-world projects under expert guidance.",
+      ],
+      website_link: "https://bangkit.academy",
     },
   ],
 };
@@ -445,49 +456,28 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Work and Volunteership",
+  subtitle: "Education and Projects",
   description:
-    "Fullstack Developer with 2+ years of experience working with React, .Net and NodeJs in an agile environment. Experience in leading a 5 member frontend team to achieve concrete goals on a strict deadline in a large scale project consisting over millions of records of drivers all throughout North America.",
+    "I participated in the Kampus Merdeka Bangkit Academy 2024 Batch 2 program, working on a capstone project about stunting in children.",
   header_image_path: "experience.svg",
   sections: [
     {
-      title: "Work",
+      title: "Education",
       experiences: [
         {
-          title: "Fullstack Developer",
-          company: "CodeExcel inc.",
-          company_url: "https://codeexcel.ca/",
-          logo_path: "codeexcel.jpg",
-          duration: "January 2021 - PRESENT",
-          location: "Markham, ON, Canada (Remote)",
+          title: "Participant",
+          company: "Kampus Merdeka Bangkit Academy",
+          company_url: "https://kampusmerdeka.kemdikbud.go.id/",
+          logo_path: "bangkit_logo.png",
+          duration: "Batch 2, 2024",
+          location: "Indonesia",
           description:
-            "Worked with 2 Insurance Bureau of Canada and Pixelmask Inc. as a Contractor via CodeExcel. Engaged in 5 successful projects utilizing stacks such as: React, .Net Core, MS SQL Server, Azure Cloud Services (AD, B2C, Key Vault, Blob Storage, Front Door etc). The projects are mainly focused towards the North American Insurance Industry.",
+            "Engaged in a comprehensive learning experience focusing on developing solutions to address child stunting through a capstone project.",
           features: [
-            "- Led the frontend team that resulted in a 25% increase in sprint completion rate.",
-            "- Implemented Single Sign-On (SSO) via Azure B2C across multiple legacy projects, simplifying user experience and reducing account management, resulting in seamless login with company credentials.",
-            "- Uncovered critical project vulnerabilities within 2 days of joining the IBC team, enabling timely remediation and preventing potential losses.",
-            "- Slashed development cost by 13% by suggesting and building a SCIM v2 compliant API for automatic user provisioning between IDP and application instead of using third party solution.",
-            "- Implemented flexible payment gateway module, empowering clients to easily switch gateways, boosting convenience and expanding options.",
-            "- Optimized UI performance by 15% and eliminated code redundancy using React's functional components, custom hooks, and Redux.",
+            "- Collaborated with a multidisciplinary team to research and propose interventions for stunting.",
+            "- Applied knowledge in project development and problem-solving.",
           ],
           color: "#0879bf",
-        },
-      ],
-    },
-    {
-      title: "Volunteerships",
-      experiences: [
-        {
-          title: "Developer Program Member",
-          company: "Github",
-          company_url: "https://github.com/",
-          logo_path: "github_logo.png",
-          duration: "September 2020 - PRESENT",
-          location: "Work From Home",
-          description:
-            "I am actively contributing to many opensource projects. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
-          features: [],
-          color: "#181717",
         },
       ],
     },
@@ -506,26 +496,26 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "tasin.png",
+    profile_image_path: "hendriansyah.png",
     description:
       "I am available on almost every social media platform. Feel free to message me, and I'll respond within 24 hours. I can assist you with Frontend and Backend Development, Android Development, Database Management, and general programming guidance.",
   },
   blogSection: {
-    title: "Website",
+    title: "Website Development Services",
     subtitle:
-      "I like to write about the projects I've worked on, my current work and discuss my latest foundings. You are most welcome to input your thoughts on my projects.",
-    link: "https://callcenterofficial.xyz ",
+      "We offer website development services using Node.js, React, Laravel, and Android. Our team, Callcenter, is ready to help you bring your dream website to life.",
+    link: "https://callcenterofficial.xyz",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
-    subtitle: "Banani, Dhaka-1212, Bangladesh",
+    subtitle: "MRQX+FVF Tj. Bar., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/yV1Vkp7L3to9qvKX6",
+    location_map_link: "https://maps.app.goo.gl/gPFVdwrVCM3dYhEj8",
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+880 1953699363",
+    subtitle: "+62 812965791",
   },
 };
 
