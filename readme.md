@@ -5,13 +5,13 @@ Watch > All Activity - for getting notified of updates on this project.
 If this template helped you, leave a star and link to this repo on your website, so that the project can grow.
 
 <p align="center"> 
-    <a href="https://tasin5541.github.io" target="_blank">
+    <a href="https://hendriansyah.vercel.app/" target="_blank">
     <img src="images/theme.gif" align="center"></img>
     </a>
 </p>
 
 # Demo
-To view a live demo, **[click here](https://tasin5541.github.io/)**
+To view a live demo, **[click here](https://hendriansyah.vercel.app/)**
 
 # Toggle Theme
 <p align="center"> 
@@ -20,13 +20,12 @@ To view a live demo, **[click here](https://tasin5541.github.io/)**
 
 # How to use
 
-- Remove `<meta http-equiv="refresh" content="0;url=https://tasin5541.github.io/" />` in the `index.html` file
 - You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer 
 - Create a repository in github named username.github.io (your github username in place of username)
 - Open up cmd/powershell in admin mode and enter the following line to download this repository
 
   - ```python
-     git clone https://github.com/Tasin5541/portfolio.git
+     git clone https://github.com/kyy-95631488/Portofolio-Dev.git
     ```
 - Then go to `C:\Windows\System32\portfolio` in your File Explorer
 - Delete the `.git` file

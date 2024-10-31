@@ -251,12 +251,12 @@ const tools = {
 const competitiveSites = {
   competitiveSites: [
     {
-      siteName: "Codechef",
-      iconifyClassname: "simple-icons:codechef",
+      siteName: "Dicoding",
+      logo_path: "dicoding.png",
       style: {
-        color: "#5B4638",
+        color: "#0085C3",
       },
-      profileLink: "https://www.codechef.com/users/tasin95",
+      profileLink: "https://www.dicoding.com/users/devr404/academies",
     },
   ],
 };
