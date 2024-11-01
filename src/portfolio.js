@@ -297,158 +297,172 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "TENCON 2021",
-      subtitle: "- Nirmal Nair",
-      logo_path: "tencon.png",
+      title: "E-Certificate [Tech Talk 4.0: The Future of AI in Web Development]",
+      subtitle: "- GDSC Widyatama University",
+      logo_path: "GDSC.png",
       certificate_link:
-        "https://drive.google.com/file/d/1wLzB3oGkyI4svn09Yor2sAeSF3DbPzeU/view?usp=sharing",
-      alt_name: "New Zealand",
-      color_code: "white",
+        "https://drive.google.com/file/d/1_QxR3EP2fRGfbdwOoTtnbJNJ1huBhbvL/view?usp=drive_link",
+      alt_name: "GDSC Widyatama University"
     },
     {
-      title: "Python Data Structures",
-      subtitle: "- Charles Russell Severance",
-      logo_path: "michigan_logo.png",
+      title: "Sertifikat Kehadiran Event [Soft Skill Webinar #3] Critical Thinking",
+      subtitle: "- DBS Foundation Coding Camp 2024",
+      logo_path: "dbs.png",
       certificate_link:
-        "https://coursera.org/share/259bcebba35c1ba43934608a5fab9907",
-      alt_name: "Michigan University",
-      color_code: "#2A73CC",
+        "https://drive.google.com/file/d/1-nMaWa4dFhRfcAD-0JFMLACz546NXbgJ/view?usp=drive_link",
+      alt_name: "DBS Foundation Coding Camp 2024"
     },
     {
-      title: "Python Basics",
-      subtitle: "- Charles Russell Severance",
-      logo_path: "michigan_logo.png",
+      title: "Sertifikat Kehadiran Event [Offline] DBS Foundation Coding Camp 2024 Upskill Gathering: Soft Skill Seminar &amp; Front-End Web Mini Workshop",
+      subtitle: "- DBS Foundation Coding Camp 2024",
+      logo_path: "dbs.png",
       certificate_link:
-        "https://coursera.org/share/39d3749b06308a77e0f596129029d4fe",
-      alt_name: "Michigan University",
-      color_code: "#2A73CC",
-    },
-
-    {
-      title: "React: The Big Picture",
-      subtitle: "- Cory House",
-      logo_path: "pluralsight_logo.png",
-      certificate_link:
-        "https://drive.google.com/file/d/1qcJipEjDB3YanZor4xHpU_9BC73FuCud/view?usp=sharing",
-      alt_name: "Pluralsight",
-      color_code: "#000000",
+        "https://drive.google.com/file/d/1dya-AzFT74bKACSYqhRX057glYKacweX/view?usp=drive_link",
+      alt_name: "DBS Foundation Coding Camp 2024"
     },
     {
-      title: "React: Getting Started",
-      subtitle: "- Samer Buna",
-      logo_path: "pluralsight_logo.png",
+      title: "[Soft Skill Webinar #4] Adaptability and Resilience - DBS Foundation Coding Camp 2024",
+      subtitle: "- DBS Foundation Coding Camp 2024",
+      logo_path: "dbs.png",
       certificate_link:
-        "https://drive.google.com/file/d/1LYzFiq0DDYYiDHowG4nbPjgmjCgd3QiV/view?usp=sharing",
-      alt_name: "Pluralsight.",
-      color_code: "#000000",
+        "https://drive.google.com/file/d/1L2wce4xvyVYtMyQYwJ0c5qd1bay9owuz/view?usp=sharing",
+      alt_name: "DBS Foundation Coding Camp 2024"
     },
     {
-      title: "Javascript: Getting Started",
-      subtitle: "- Mark Zamoyta",
-      logo_path: "pluralsight_logo.png",
+      title: "[Soft Skill Webinar #5] Project Management - DBS Foundation Coding Camp 2024",
+      subtitle: "- DBS Foundation Coding Camp 2024",
+      logo_path: "dbs.png",
       certificate_link:
-        "https://drive.google.com/file/d/12qhxMM2DGp4YVdG9wcpFDNX7r1bjqumx/view?usp=sharing",
-      alt_name: "Pluralsight",
-      color_code: "#000000",
+        "https://drive.google.com/file/d/10SJMlyJI8z-uWjSBttc4uwEk887uiDiM/view?usp=sharing",
+      alt_name: "DBS Foundation Coding Camp 2024"
     },
     {
-      title: "Designing React Components",
-      subtitle: "- Peter Kellner",
-      logo_path: "pluralsight_logo.png",
+      title: "Career Session Android: Memulai Karir Sebagai Android Developer",
+      subtitle: "- GDSC Mulawarman University",
+      logo_path: "GDSC_1.png",
       certificate_link:
-        "https://drive.google.com/file/d/12f_pCjrOIkx0SMC0mqjnxpMwc9tesQoC/view?usp=sharing",
-      alt_name: "Pluralsight.",
-      color_code: "#000000",
+        "https://drive.google.com/file/d/1PurTfPS42TW3eamLlnktliZgKQkNL6FN/view?usp=sharing",
+      alt_name: "GDSC Mulawarman University"
     },
     {
-      title: "Managing React State",
-      subtitle: "- Cory House",
-      logo_path: "pluralsight_logo.png",
+      title: "DevCoach 141 : Back-End | Membangun Software dengan Prinsip Clean Code dan Design Pattern",
+      subtitle: "- Dicoding Event",
+      logo_path: "dicoding_1.png",
       certificate_link:
-        "https://drive.google.com/file/d/12f_pCjrOIkx0SMC0mqjnxpMwc9tesQoC/view?usp=sharing",
-      alt_name: "Pluralsight.",
-      color_code: "#000000",
+        "https://drive.google.com/file/d/12aqwz3LerfaaXq4Dxpevu5GUtAp8YiKY/view?usp=drive_link",
+      alt_name: "Dicoding Event"
     },
     {
-      title: "Building Applications with React and Redux",
-      subtitle: "- Cory House",
-      logo_path: "pluralsight_logo.png",
+      title: "DevCoach 142 : iOS | Akses Data dari Server dalam Aplikasi iOS dengan URL Session",
+      subtitle: "- Dicoding Event",
+      logo_path: "dicoding_1.png",
       certificate_link:
-        "https://drive.google.com/file/d/15UMAKzJq1g1cIrz-sp1Ve0efg-M-hAq1/view",
-      alt_name: "Pluralsight.",
-      color_code: "#000000",
+        "https://drive.google.com/file/d/1DVP0RWc22-PWnQ_Joth5rOFX2TGgtP-Z/view?usp=sharing",
+      alt_name: "Dicoding Event"
     },
     {
-      title: "Using React Hooks",
-      subtitle: "- Peter Kellner",
-      logo_path: "pluralsight_logo.png",
+      title: "Starting the basics of a Cloud Engineer",
+      subtitle: "- Rosyid Mubarak [ Dicoding Event ]",
+      logo_path: "dicoding_2.png",
       certificate_link:
-        "https://drive.google.com/file/d/15mPlLGrjpmkdlf3eyi7B_NLG8Wro5EEg/view",
-      alt_name: "Pluralsight.",
-      color_code: "#000000",
+        "https://drive.google.com/file/d/1so82qrY9Un35Qpy1f0Rs-hIRFSfs67dA/view?usp=sharing",
+      alt_name: "Rosyid Mubarak [ Dicoding Event ]"
     },
     {
-      title: "Styling React Component",
-      subtitle: "- Jake Trent",
-      logo_path: "pluralsight_logo.png",
+      title: "DevCoach 152 : ML Android | Deploy Custom Model yang Ringan dan Cepat? Kenalin, TensorFlow Lite",
+      subtitle: "- Dicoding Event",
+      logo_path: "dicoding_1.png",
       certificate_link:
-        "https://drive.google.com/file/d/14Wvag5M1sGzOlgWCC2PPDX4SsUkiqf72/view",
-      alt_name: "Pluralsight.",
-      color_code: "#000000",
+        "https://drive.google.com/file/d/1po8Z1AbzvlvZOfWdcs10awFYxQchK0VG/view?usp=sharing",
+      alt_name: "Dicoding Event"
     },
     {
-      title: "Testing React Components",
-      subtitle: "- Liam McLennan",
-      logo_path: "pluralsight_logo.png",
+      title: "Belajar Dasar Pemrograman Web",
+      subtitle: "- Dicoding Indonesia",
+      logo_path: "Dicoding_Indonesia.png",
       certificate_link:
-        "https://drive.google.com/file/d/1654lPVh6R1zwSjgZjHV9gz7mgQ7wRmLm/view",
-      alt_name: "Pluralsight.",
-      color_code: "#000000",
+        "https://www.dicoding.com/certificates/QLZ946O37P5D",
+      alt_name: "Dicoding Indonesia"
     },
     {
-      title: "Server Rendering React Components",
-      subtitle: "- Daniel Stern",
-      logo_path: "pluralsight_logo.png",
+      title: "Belajar Dasar Pemrograman JavaScript",
+      subtitle: "- Dicoding Indonesia",
+      logo_path: "Dicoding_Indonesia.png",
       certificate_link:
-        "https://drive.google.com/file/d/14YrLAmZlGNx2PayR0unlLjMoySL-eRG5/view",
-      alt_name: "Pluralsight.",
-      color_code: "#000000",
+        "https://www.dicoding.com/certificates/07Z6WJEGMZQR",
+      alt_name: "Dicoding Indonesia"
     },
     {
-      title: "Optimize Performance React",
-      subtitle: "- Hendrik Swanepoel",
-      logo_path: "pluralsight_logo.png",
+      title: "Belajar Membuat Front-End Web untuk Pemula",
+      subtitle: "- Dicoding Indonesia",
+      logo_path: "Dicoding_Indonesia.png",
       certificate_link:
-        "https://drive.google.com/file/d/15kaZAf9642Kp_LBXYeqiVSzInaz-peAi/view",
-      alt_name: "Pluralsight.",
-      color_code: "#000000",
+        "https://www.dicoding.com/certificates/QLZ97KV4DP5D",
+      alt_name: "Dicoding Indonesia"
     },
     {
-      title: "Node.js The Big Picture",
-      subtitle: "- Paul O'Fallon",
-      logo_path: "pluralsight_logo.png",
+      title: "Pengenalan ke Logika Pemrograman (Programming Logic 101)",
+      subtitle: "- Dicoding Indonesia",
+      logo_path: "Dicoding_Indonesia.png",
       certificate_link:
-        "https://drive.google.com/file/d/16jqLAZ4rWiUmITkGGxrZb68Eo5l77UPu/view",
-      alt_name: "Pluralsight.",
-      color_code: "#000000",
+        "https://www.dicoding.com/certificates/N9ZOY7JMYPG5",
+      alt_name: "Dicoding Indonesia"
     },
     {
-      title: "Node.js Getting Started",
-      subtitle: "- Samer Buna",
-      logo_path: "pluralsight_logo.png",
+      title: "Belajar Dasar Git dengan GitHub",
+      subtitle: "- Dicoding Indonesia",
+      logo_path: "Dicoding_Indonesia.png",
       certificate_link:
-        "https://drive.google.com/file/d/173qXhPtqI1zwSzcb487R3Ud_0j13LiDP/view",
-      alt_name: "Pluralsight.",
-      color_code: "#000000",
+        "https://www.dicoding.com/certificates/1RXY2MJL9XVM",
+      alt_name: "Dicoding Indonesia"
     },
     {
-      title: "Using MongoDB with Node.js",
-      subtitle: "- Samer Buna",
-      logo_path: "pluralsight_logo.png",
+      title: "Belajar Membuat Aplikasi Android untuk Pemula",
+      subtitle: "- Dicoding Indonesia",
+      logo_path: "Dicoding_Indonesia.png",
       certificate_link:
-        "https://drive.google.com/file/d/16za14GrABr8xBM8r8hCtag1fO2faZTD8/view",
-      alt_name: "Pluralsight.",
-      color_code: "#000000",
+        "https://www.dicoding.com/certificates/1RXY2YL53XVM",
+      alt_name: "Dicoding Indonesia"
+    },
+    {
+      title: "Belajar Dasar AI",
+      subtitle: "- Dicoding Indonesia",
+      logo_path: "Dicoding_Indonesia.png",
+      certificate_link:
+        "https://www.dicoding.com/certificates/QLZ9VKEVMX5D",
+      alt_name: "Dicoding_Indonesia.png"
+    },
+    {
+      title: "Memulai Pemrograman dengan Kotlin",
+      subtitle: "- Dicoding Indonesia",
+      logo_path: "Dicoding_Indonesia.png",
+      certificate_link:
+        "https://www.dicoding.com/certificates/07Z60OJDMZQR",
+      alt_name: "Dicoding_Indonesia.png"
+    },
+    {
+      title: "Belajar Penerapan Machine Learning untuk Android",
+      subtitle: "- Dicoding Indonesia",
+      logo_path: "Dicoding_Indonesia.png",
+      certificate_link:
+        "https://www.dicoding.com/certificates/98XW5RJEJPM3",
+      alt_name: "Dicoding_Indonesia.png"
+    },
+    {
+      title: "Belajar Fundamental Aplikasi Android",
+      subtitle: "- Dicoding Indonesia",
+      logo_path: "Dicoding_Indonesia.png",
+      certificate_link:
+        "https://www.dicoding.com/certificates/L4PQ54J57ZO1",
+      alt_name: "Dicoding_Indonesia.png"
+    },
+    {
+      title: "Memulai Dasar Pemrograman untuk Menjadi Pengembang Software",
+      subtitle: "- Dicoding Indonesia",
+      logo_path: "Dicoding_Indonesia.png",
+      certificate_link:
+        "https://www.dicoding.com/certificates/JLX14GE2NX72",
+      alt_name: "Dicoding_Indonesia.png"
     },
   ],
 };
