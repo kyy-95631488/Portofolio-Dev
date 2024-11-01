@@ -93,4 +93,4 @@ If you open the file, you will see below component at the top of the file. You n
 
 # References 👏🏻
 
-- Most of the Design and Implementation Ideas are taken from [Saad Pasta's Portfolio Project](https://github.com/saadpasta/developerFolio) and [ashutosh1919 masterPortfolio Project](https://github.com/ashutosh1919/masterPortfolio).
+- Most of the Design and Implementation Ideas are taken from [Saad Pasta's Portfolio Project](https://github.com/saadpasta/developerFolio).
