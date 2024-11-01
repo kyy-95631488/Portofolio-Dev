@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "HendriansyahRizkySetiawan",
-  "homepage": "./build",
+  "homepage": "./",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
