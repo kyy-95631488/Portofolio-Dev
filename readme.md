@@ -15,7 +15,7 @@ To view a live demo, **[click here](https://hendriansyah.vercel.app/)**
 
 # Toggle Theme
 <p align="center"> 
-    <img src="images/toggle.gif" align="center"></img>
+    <img src="images/toggle.gif" align="center">
 </p>
 
 # How to use
