@@ -6,7 +6,7 @@ If this template helped you, leave a star and link to this repo on your website,
 
 <p align="center"> 
     <a href="https://hendriansyah.vercel.app/" target="_blank">
-    <img src="images/theme.gif" align="center"></img>
+    <img src="images/theme.gif" align="center">
     </a>
 </p>
 
