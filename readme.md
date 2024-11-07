@@ -6,7 +6,7 @@ If this template helped you, leave a star and link to this repo on your website,
 
 <p align="center"> 
     <a href="https://hendriansyah.vercel.app/" target="_blank">
-    <img src="images/theme.gif" align="center"></img>
+    <img src="images/theme.gif" align="center">
     </a>
 </p>
 
@@ -15,7 +15,7 @@ To view a live demo, **[click here](https://hendriansyah.vercel.app/)**
 
 # Toggle Theme
 <p align="center"> 
-    <img src="images/toggle.gif" align="center"></img>
+    <img src="images/toggle.gif" align="center">
 </p>
 
 # How to use
@@ -93,4 +93,4 @@ If you open the file, you will see below component at the top of the file. You n
 
 # References 👏🏻
 
-- Most of the Design and Implementation Ideas are taken from [Saad Pasta's Portfolio Project](https://github.com/saadpasta/developerFolio) and [ashutosh1919 masterPortfolio Project](https://github.com/ashutosh1919/masterPortfolio).
+- Most of the Design and Implementation Ideas are taken from [Saad Pasta's Portfolio Project](https://github.com/saadpasta/developerFolio).
