@@ -529,7 +529,7 @@ const contactPageData = {
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+62 812965791",
+    subtitle: "+62 81296579157",
   },
 };
 
