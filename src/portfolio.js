@@ -13,7 +13,7 @@ const greeting = {
   subTitle:
     "An aspiring developer who loves to take on new projects that challenges his analytical and technological capacities.",
   resumeLink:
-    "#",
+    "https://drive.google.com/file/d/1_FkjQ7rbusF-uJkogO83fd9lMuYyazyY/view?usp=sharing",
   portfolio_repository: "https://github.com/kyy-95631488",
 };
 
@@ -268,8 +268,8 @@ const degrees = {
       subtitle: "B.Sc. in Information Technology",
       logo_path: "unindra_logo.png",
       alt_name: "Unindra",
-      duration: "2022 - 2025",
-      cgpa: "",
+      duration: "2022 - Present",
+      cgpa: "3,29/4.00",
       descriptions: [
         "⚡ Studied core subjects such as Java Programming, Basic HTML, Networking, Automata Theory, Computer Science, and Basic Web Development.",
         "⚡ Gained hands-on experience in software development projects.",
@@ -283,7 +283,7 @@ const degrees = {
       logo_path: "bangkit_logo.png",
       alt_name: "Bangkit Academy",
       duration: "August 2024 - January 2025",
-      cgpa: "",
+      cgpa: "89,04/100",
       descriptions: [
         "⚡ Participated in the Bangkit Academy 2024 Batch 2, specializing in Mobile Development.",
         "⚡ Enhanced skills in building mobile applications.",
@@ -296,6 +296,14 @@ const degrees = {
 
 const certifications = {
   certifications: [
+    {
+      title: "Certificate of Completion Bangkit, specializing in Mobile Development",
+      subtitle: "- Bangkit Academy 2024 Batch 2",
+      logo_path: "BangkitAcademy.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1mnqdC01VPYiZiVm_WhjhFFDphmc2URJO/view?usp=drive_link",
+      alt_name: "Bangkit Academy 2024 Batch 2"
+    },
     {
       title: "E-Certificate [Tech Talk 4.0: The Future of AI in Web Development]",
       subtitle: "- GDSC Widyatama University",

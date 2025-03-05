@@ -27,28 +27,25 @@ export default App;
 
 
 // App.js
-import React from 'react';
+import React from "react";
 import "./App.css";
 import Main from "./containers/Main";
-import { ThemeProvider } from 'styled-components';
-import { useDarkMode } from './components/footer/useDarkMode';
-import { blueTheme, darkTheme } from './theme';
-import { GlobalStyles } from './global';
-import Toggle from './components/footer/Toggle';
+import { ThemeProvider } from "styled-components";
+import { useDarkMode } from "./components/footer/useDarkMode";
+import { blueTheme, darkTheme } from "./theme";
+import { GlobalStyles } from "./global";
 import Footer from "./components/footer/Footer";
 
 function App() {
   console.log("starting");
   const [theme, toggleTheme, componentMounted] = useDarkMode();
 
-  const themeMode = theme === 'light' ? blueTheme : darkTheme;
+  const themeMode = theme === "light" ? blueTheme : darkTheme;
   console.log(themeMode);
 
-
   if (!componentMounted) {
-    return <div />
-  };
-
+    return <div />;
+  }
 
   return (
     <ThemeProvider theme={themeMode}>
@@ -57,8 +54,7 @@ function App() {
         <div>
           <Main theme={themeMode} />
         </div>
-        <Toggle theme={theme} toggleTheme={toggleTheme} />
-        <Footer theme={themeMode} />
+        <Footer theme={themeMode} toggleTheme={toggleTheme} />
       </>
     </ThemeProvider>
   );
